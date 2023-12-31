@@ -1,5 +1,5 @@
 body {
-	background-color: #69008C;
+	background-color: #000000;
 	margin: 0;
 	line-height: 17px;
 	color: #8B00B9;
@@ -26,7 +26,7 @@ a:hover {
 }
 
 [name=box] {
-	background-color: #A300D9;
+	background-color: #000000;
 	box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
 	position: absolute;
 	width: 640px;
